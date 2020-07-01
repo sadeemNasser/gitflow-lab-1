@@ -10,7 +10,7 @@ Invite your team members to collaborate on the project
 
 All: Create a feature branch with your name in it (eg: ‘feature-1-abdul’) and add a file with your name and a .txt entension (put something in the file)
 
-All: Use gitflow to get it into dev and release in the parent repo
+All: Use gitflow to get it into develop and release, and eventually master, in the parent repo
 
 Leader: review changes with the whole team (share screen)
 
